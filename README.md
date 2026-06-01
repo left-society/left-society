@@ -1,9 +1,7 @@
-## Aritro
+## Hey, I'm Aritro
 
-Creative studio founder & indie macOS developer.
+I run a video editing studio called Graphverse. There's 15 of us, and we've worked with more than 200 clients so far.
 
-I run **Graphverse**, a video-editing studio — a 15-person team that's delivered for 200+ clients worldwide. On the side I build small, fast, native macOS tools in Swift & SwiftUI.
+When I'm not editing, I'm building macOS apps in Swift and SwiftUI. Right now I'm working on [nox](https://github.com/left-society/nox), a little app that lives in your Mac's notch.
 
-**Currently building** [nox](https://github.com/left-society/nox) — a native macOS app that lives in the notch.
-
-**Reach me** · aritra13.debnath@gmail.com
+Reach me at aritra13.debnath@gmail.com
